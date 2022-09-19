@@ -5,7 +5,7 @@ env:
   DOCKER_USER: ${{secrets.DOCKER_USER}}
   DOCKER_PASSWORD: ${{secrets.DOCKER_PASSWORD}}  
   FEED_API_REPO: ${{secrets.FEED_API_REPO}}
-  USER_API_REPO: ${{secrets. USER_API_REPO}
+  USER_API_REPO: ${{secrets. USER_API_REPO}}
   FRONTEND_REPO: ${{secrets.FRONTEND_REPO}}
   REVERSEPROXY_REPO: ${{secrets.REVERSEPROXY_REPO}}
 jobs:
