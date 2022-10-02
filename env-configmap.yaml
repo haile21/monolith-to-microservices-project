@@ -6,7 +6,7 @@ data:
   AWS_REGION: us-east-1
   JWT_SECRET: testing
   POSTGRES_DB: postgre
-  POSTGRES_HOST: database-psql-haile.cio5h1gnyhha.us-east-1.rds.amazonaws.com
+  POSTGRES_HOST: haile-db-instance.cio5h1gnyhha.us-east-1.rds.amazonaws.com
   URL: http://a7e1e38e830ed460785d7829825ddf4e-884570328.us-east-1.elb.amazonaws.com:80 # fronend domain 
 metadata:
   name: env-config
