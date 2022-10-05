@@ -37,6 +37,7 @@ spec:
     spec:
       containers:
       - name: udagram-api-user
+        imagePullPolicy: Always 
         image: haile2121/udagram-api-user
         ports:
         - containerPort: 80 

@@ -37,6 +37,7 @@ spec:
     spec:
       containers:
       - name: udagram-api-feed
+        imagePullPolicy: Always
         image: haile2121/udagram-api-feed
         ports:
         - containerPort: 80  

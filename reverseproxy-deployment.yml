@@ -16,6 +16,7 @@ spec:
     spec:
       containers:
       - name: reverseproxy
+        imagePullPolicy: Always
         image: haile2121/reverseproxy
         ports:
         - containerPort: 80
