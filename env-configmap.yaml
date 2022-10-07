@@ -7,6 +7,6 @@ data:
   JWT_SECRET: dGVzdGluZwo=
   POSTGRES_DB: cG9zdGdyZQo=
   POSTGRES_HOST: aGFpbGUtaW5zdGFuY2UuY2xhMWU3ZjBqem42LnVzLWVhc3QtMS5yZHMuYW1hem9uYXdzLmNvbQo=
-  URL:  aHR0cDovL2E2OGYxYjUwZWM2MjQ0Yzg4OTI3ODQ1MTIwMDYxMmQ1LTEwMDY3MzA1NzEudXMtZWFzdC0xLmVsYi5hbWF6b25hd3MuY29tOjgwCg== # fronend domain 
+  URL: YTc1M2Q1NDI4NjM5ZjRjM2ZhZDY2Y2NhNGQ2MDBlNGQtOTIzODE0MjExLnVzLWVhc3QtMS5lbGIuYW1hem9uYXdzLmNvbQo= # fronend domain 
 metadata:
   name: env-config
